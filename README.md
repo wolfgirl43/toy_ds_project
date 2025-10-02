@@ -2,3 +2,4 @@
 A repository for Version control worksheet
 
 project creation date: Wed Oct 1 
+Author: Miranda Currie
